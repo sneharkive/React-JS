@@ -1,0 +1,19 @@
+section{
+  display: flex;
+  justify-content: space-between;
+  max-width: 600px;
+  margin: 0 auto;
+  margin-top: 4rem;
+  align-items: center;
+  font-family: cursive;
+}
+
+button img{
+  max-width: 30px;
+}
+button {
+  cursor: pointer;
+  display: inline-flex;
+  gap: 12px;
+  align-items: center;
+}
